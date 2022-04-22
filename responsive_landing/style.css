@@ -1,0 +1,46 @@
+
+h1{
+  text-align: center;
+}
+p{
+  margin-left: 1em;
+}
+h2{
+  margin-left: 10em;
+}
+
+.adobt{
+display: flex;
+justify-content: space-evenly;
+margin-left: 1em;
+
+}
+/*#flex{
+  display: flex;
+  justify-content: space-evenly;
+  color: blanchedalmond;
+ margin-left: 2em;
+
+
+}*/
+.adobt img {
+float: left;
+margin-right: 3%;
+width: 157px;
+}
+.Upcoming{
+  display: flex;
+justify-content: space-evenly;
+margin-left: 1em;
+}
+.Upcoming img{
+  float: left;
+  margin-right: 3%;
+  width: 157px;
+}
+ h3{
+padding-left: 30em;
+}
+.about p{
+  text-align: center;
+}
