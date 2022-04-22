@@ -1,15 +1,8 @@
 function weeklyWage(band, weeklyHours) {
-Array
-for(let i= 0 ;1<band.length;1++){
- 
-if (band.startsWith("A"){
-total += 23
-}else if(bland.startsWith("B")){
-tatal += 37
-}else if(bland.startsWith("B")){
-    tatal += 37
+ const weeklyHoursList = weeklyHours.split(',')
+for(let i= 0 ;1<weeklyHoursList.length;1++){
 
-}else(unkon)
+
+console.log(weeklyHoursList)
 }
-return error
 }
